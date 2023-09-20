@@ -1,0 +1,76 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "movie_name": "The Shawshank Redemption",
+      "IMDb_rating": "9.3",
+      "publication_date": 1994,
+      "img_movie": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1200_.jpg",
+      "duration": "2h 22m"
+    },
+    {
+      "id": 2,
+      "movie_name": "The Godfather 11",
+      "IMDb_rating": "9.2",
+      "publication_date": 1972,
+      "img_movie": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UY1982_.jpg",
+      "duration": "2h 55m"
+    },
+    {
+      "id": 3,
+      "movie_name": "The Dark Knight",
+      "IMDb_rating": "9.0",
+      "publication_date": 2008,
+      "img_movie": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UY2048_.jpg",
+      "duration": "2h 32m"
+    },
+    {
+      "id": 4,
+      "movie_name": "The Godfather Part II",
+      "IMDb_rating": "9.0",
+      "publication_date": 1974,
+      "img_movie": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UY2552_.jpg",
+      "duration": "3h 22m"
+    },
+    {
+      "id": 6,
+      "movie_name": "Schindler's List",
+      "IMDb_rating": "9.0",
+      "publication_date": 1993,
+      "img_movie": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UY2400_.jpg",
+      "duration": "3h 15m"
+    },
+    {
+      "id": 7,
+      "movie_name": "The Lord of the Rings | |",
+      "IMDb_rating": "9.0",
+      "publication_date": 2003,
+      "img_movie": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX800_.jpg",
+      "duration": "3h 21m"
+    },
+    {
+      "id": 8,
+      "movie_name": "Pulp Fiction",
+      "IMDb_rating": "8.9",
+      "publication_date": 1994,
+      "img_movie": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1055_.jpg",
+      "duration": "2h 34m"
+    },
+    {
+      "id": 9,
+      "movie_name": "Fight Club",
+      "IMDb_rating": "8.8",
+      "publication_date": 1999,
+      "img_movie": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UY3000_.jpg",
+      "duration": "2h 19m"
+    },
+    {
+      "movie_name": "Se7en",
+      "IMDb_rating": "9",
+      "publication_date": "1999",
+      "duration": "2h 22m",
+      "img_movie": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UY2815_.jpg",
+      "id": 11
+    }
+  ]
+}
